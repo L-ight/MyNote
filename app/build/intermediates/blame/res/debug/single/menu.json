@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\menu\\content_menu.xml",
+        "source": "D:\\MyNote\\app\\src\\main\\res\\menu\\content_menu.xml"
+    },
+    {
+        "merged": "D:\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\MyNote\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

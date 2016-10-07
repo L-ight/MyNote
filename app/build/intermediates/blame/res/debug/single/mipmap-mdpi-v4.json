@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\MyNote\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\mynote.png",
+        "source": "D:\\MyNote\\app\\src\\main\\res\\mipmap-mdpi\\mynote.png"
+    }
+]
